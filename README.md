@@ -44,7 +44,7 @@ Il database è stato progettato seguendo un modello relazionale ben normalizzato
 - `Utenti`
 - `Annunci`
 - `Categorie`
-- `Commenti` *(opzionale, se implementato)*
+- `Commenti` 
 
 Relazioni tra tabelle, vincoli di integrità referenziale e tipi di dato sono stati scelti per garantire coerenza ed efficienza nelle operazioni.
 
